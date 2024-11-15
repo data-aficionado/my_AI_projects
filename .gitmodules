@@ -1,0 +1,3 @@
+[submodule "anomaly-detection-medical-images"]
+	path = anomaly-detection-medical-images
+	url = https://github.com/data-aficionado/anomaly-detection-medical-images.git
